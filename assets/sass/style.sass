@@ -1,0 +1,88 @@
+@import "vars"
+@import "mixins"
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+
+*
+    margin: 0
+    padding: 0
+    -webkit-box-sizing: border-box
+    box-sizing: border-box
+
+html
+    // background-color: $dark-grey
+    background-color: $bgd
+    
+    font-family: $font
+    font-size: 16px
+
+body
+    font-size: $body-size
+    font-family: $font
+    font-weight: 400
+    line-height: 200%
+    // letter-spacing: 1.5px
+    color: $body-text
+    text-shadow: none
+    display: flex
+    flex-direction: column
+    justify-content: space-between
+    // justify-content: start
+    align-items: center
+    // align-items: start
+    // opacity: 1
+
+strong
+    // color: red
+    font-weight: 600
+header
+    padding: 3rem 0 1rem 0
+
+h1,h2,h3
+    font-family: 'Didact Gothic', sans-serif
+
+h1
+    font-size: 3rem
+    text-transform: uppercase
+    font-weight: 200
+    line-height: 120%
+
+ul
+    list-style-type: none
+
+p
+    display: inline
+
+a
+    color: $body-text
+    text-decoration: none
+    +ease(0.5s)
+    &:hover
+        color: $body-text
+        font-style: none
+    &:active
+        color: $body-text
+
+hr
+    margin: 1rem 0
+    width: 100%
+    border: 0
+    height: 1rem 
+    background: $body-text
+
+// Import here because of certain variable declarations
+@import "containers"
+@import "elements"
+@import "custom"
+@import "responsive"
+
+.go-left
+    justify-content: flex-start
+    align-items: flex-start
+
+.go-right
+    justify-content: flex-end
+    align-items: flex-end
+
+.go-center
+    justify-content: center
+    align-items: center

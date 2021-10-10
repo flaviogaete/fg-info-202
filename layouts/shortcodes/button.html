@@ -1,0 +1,10 @@
+<!-- 
+P0: post-button-dark
+P1: URL
+P2: target
+P3: label 
+-->
+
+<div id="{{ index .Params 0 }}">
+    <div><a href="{{ index .Params 1 }}" target="{{ index .Params 2 }}">{{ index .Params 3 }}</a></div>
+</div>

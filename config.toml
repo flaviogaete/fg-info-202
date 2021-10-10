@@ -1,0 +1,49 @@
+baseurl                  = "https://fg-hugo.netlify.app/"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Flavio Gaete"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "flogo.png"
+    homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = ""
+
+# Metadata for Open Graph and Twitter
+    description          = "A Musician"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Flavio Gaete"
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    # overlay = "rgba(0, 0, 0, 0.4)" # optional
+    overlay = "rgba(0, 0, 0, 0)" # optional
+
+[[params.mainMenu]]
+    link = "portfolio"
+    text = "Portfolio"
+[[params.mainMenu]]
+    link = "about"
+    text = "About"
+[[params.mainMenu]]
+    link = "blog"
+    text = "Blog"
+[[params.mainMenu]]
+    link = "https://app.gumroad.com/flaviogaete"
+    text = "Shop"
+[[params.mainMenu]]
+    link = "contact"
+    text = "Contact"
+
+[imaging]
+    quality = 75

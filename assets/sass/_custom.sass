@@ -1,0 +1,276 @@
+/////////////////////////////////////////////////////////////////////////////////// Forms
+    
+.my-form
+    margin: 2rem 0
+    input[type=text], input[type=email], select 
+        outline: none
+        width: 100%
+        padding: 1rem
+        margin: 1rem 0
+        display: inline-block
+        border: 1px solid grey
+        box-sizing: border-box
+        font-family: Courier New, Courier, monospace
+        color: $body-text
+    textarea[name=message], select
+        outline: none
+        width: 100%
+        height: 300px
+        padding: 1rem
+        margin: 1rem 0
+        display: inline-block
+        border: 1px solid grey
+        box-sizing: border-box
+        font-family: Courier New, Courier, monospace
+        color: $body-text
+    input[type=checkbox]
+        margin: 0 10px 30px 0
+        opacity: 0
+        // display: none
+        // display: inline-block
+    input.cb1[type=checkbox]:checked ~ #f1,
+    input.cb2[type=checkbox]:checked ~ #f2,
+    input.cb3[type=checkbox]:checked ~ #f3
+        background-color: $body-text
+    #f1,#f2,#f3
+        padding: 7px 0 0 0
+        width: 7px
+        display: block
+        outline: $body-text 1px solid
+        margin: -40px 0 0 3px
+
+    button
+        padding: 1rem 2rem
+        border: 1px solid $body-text
+        background-color: $body-text
+        color: $bgd   
+
+.push-left
+    margin-left: 0.5rem
+
+.sender
+    width: 100%
+    margin: 3rem 0 0 0
+    padding: 0
+
+/////////////////////////////////////////////////////////////////////////////////// Menus
+    
+.float-menu
+    position: fixed
+    padding: 3rem 0 0 0
+    width: inherit
+    height: 7rem
+    left: 0
+    top: 0
+    z-index: 1
+
+    display: flex
+    flex-direction: row
+    justify-content: flex-end
+    align-items: start
+
+    text-align: right
+    color: $body-text
+
+.float-menu-container-1
+    width: max-content;
+
+.float-menu-container-2
+    background-color: $bgd
+    width: max-content;
+    padding: 0 2rem 0 0.5rem
+
+/////////////////////////////////////////////////////////////////////////////////// Navigation
+
+.nav-big
+    padding: 0.5rem 0
+    li
+        margin: 1.5rem 0
+
+.subnav1
+    text-align: right
+    font-size: 1.5rem
+    line-height: 3rem
+    
+    a
+        text-decoration: none
+
+.subnav2
+    margin-top: 3rem
+    text-align: right
+    font-size: 1rem
+    line-height: 1rem
+    a
+        text-decoration: none
+
+/////////////////////////////////////////////////////////////////////////////////// Stationary
+
+.my-icon
+    margin-left: 1rem
+
+#myTitle
+    width: 100%
+    // margin: 4rem 0
+    font-size: 3rem
+    text-transform: uppercase
+    hr
+        margin-top: 2rem
+
+#copyright
+    margin: 1rem 0
+
+#social
+    width: 100%
+    text-align: right
+    font-size: 1.2rem
+    // margin: 1rem 0 2rem 0
+    a
+        margin-left: 1rem
+
+#post-article
+    margin: - 1rem 0 0 0
+    padding: 0 0 3rem 0
+    text-align: left
+    font-size: 1.2rem
+    line-height: 150%
+    h1, h2, h3
+        line-height: 200%
+    li
+        line-height: 150%
+        margin-bottom: 1rem
+    a
+        color: $bgd
+        background-color: $body-text
+        padding: 0 0.5rem
+    hr
+        margin: 3rem 0 4rem 0
+    & blockquote
+        margin: 1rem 0rem
+        font-style: italic
+        font-size: 2rem
+        line-height: 100%
+        font-family: 'Times New Roman', Times, serif
+        color: brown
+        & ul
+            margin-top: 1rem
+        & li
+            list-style: disc
+    & pre
+        width: 100%
+        line-height: 1rem
+        white-space: pre-wrap
+        text-align: left
+        background-color: $bgd
+        width: 100%
+        margin-bottom: 1em
+    & pre > code
+        border: none
+    & code
+        font-size: 1rem
+        font-family: Courier New, Courier, monospace
+        line-height: 150%
+        // letter-spacing: 0.5px
+        padding: 0.1rem
+        background-color: $bgd
+    img
+        margin: 0
+        // padding: 0
+        // border: solid 1px $body-text
+        // box-shadow: 8px 4px 24px 0px rgba(0,0,0,0.5);
+
+#post-button-dark
+    width: 100%
+    a
+        margin: 0
+        padding: 1.5rem 2rem
+        background-color: $body-text
+        color: $bgd
+    div
+        margin: 0
+        padding: 1.5rem 0
+
+#post-button-accent
+    width: 100%
+    a
+        margin: 0
+        padding: 1.5rem 2rem
+        background-color: $accent
+        color: $bgd
+    div
+        margin: 0
+        padding: 1.5rem 0
+
+#post-captions
+    font-family: Courier New, Courier, monospace
+    font-size: 1rem
+    letter-spacing: 0px;
+
+.post-date
+    text-align: right
+    font-family: Courier New, Courier, monospace
+
+.post-description
+    text-align: justify
+    font-size: 1.2rem
+    width: 100%
+    margin: 1rem 0
+
+#post-divider
+    margin: 4rem 0 1rem 0
+    width: 100%
+    border: 0
+    height: 1px
+    background: $body-text
+
+#post-fine
+    margin: 1rem 0
+    width: 100%
+    border: 0
+    height: 1px
+    background: $body-text
+    // text-align: center
+
+.post-lyrics
+    padding: 2rem
+    font-size: 1.2rem
+    font-weight: 300
+    font-family: 'Public Sans'
+    text-align: center
+    line-height: 2rem
+    h1, h2, h3
+        text-align: center
+        line-height: 0
+        font-weight: 800
+    h3
+        text-decoration: underline
+
+#post-menu-top
+    text-align: right
+    // background-color: pink
+    margin: 0
+    a
+        background-color: transparent
+        color: $body-text
+        display: block
+
+.post-title
+    margin-bottom: 1rem
+    // font-size: 0.5rem
+
+.post-quote
+    padding: 4rem 2rem 2rem 0
+    font-size: 2rem
+    line-height: 150%
+    font-family: 'Newsreader'
+    font-style: italic;
+    color: #6E8898
+
+#post-right
+    text-align: right
+    font-size: 1rem
+    // line-height: 150%
+    font-family: 'Work Sans'
+    // font-style: normal;
+
+#post-underline
+    text-decoration: underline

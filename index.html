@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{ partial "head.html" . }}
+    <title>{{ .Title | markdownify }}</title>
+</head>
+
+<body>
+    
+    <nav role="navigation" class="flex-container" id="splash">
+        <div id="myTitle">
+            Flavio Gaete
+            <hr>
+        </div>
+        <div id="splash-link">
+            {{ if .Site.Params.mainMenu }}
+                {{ range .Site.Params.mainMenu }}
+                <div class="big-link"><a href="{{.link}}">{{.text}}</a></div>
+                {{ end }}
+            {{ else }}
+                {{ range .Site.Sections }}
+                <div class="big-link"><a href="{{.RelPermalink}}">{{.Title | markdownify}}</a></div>
+                {{ end }}
+            {{ end }}
+            
+        </div>
+        <hr>
+        <div class="" id="social">
+
+            <a href="https://www.youtube.com/channel/UCrL9j3vjX4Yi1L5xG4Qt-Ng"><i class="bi bi-youtube"></i></a>
+            <a href="https://twitter.com/gaete_flavio"><i class="bi bi-twitter"></i></a>
+            <a href="https://www.instagram.com/flaviogaete/"><i class="bi bi-instagram"></i></a>
+        </div>
+    </nav>
+</body>
+
+</html>

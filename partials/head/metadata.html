@@ -1,0 +1,34 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+{{ if .Site.Params.description }}
+<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
+<title>
+    {{ .Title | markdownify }}{{ if ne .Title .Site.Title }} - {{ .Site.Title | markdownify }}{{ end }}
+</title>
+<!-- RSS -->
+{{- with .OutputFormats.Get "RSS" -}}
+{{ $rss := .RelPermalink }}
+{{- if $.Site.Params.rss -}}
+{{ $rss = $.Site.Params.rss }}
+{{- end -}}
+<link href="{{ $rss }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title | markdownify}}" />
+{{- end -}}
+
+<script>
+    (function (s, e, n, d, er) {
+      s['Sender'] = er;
+      s[er] = s[er] || function () {
+        (s[er].q = s[er].q || []).push(arguments)
+      }, s[er].l = 1 * new Date();
+      var a = e.createElement(n),
+          m = e.getElementsByTagName(n)[0];
+      a.async = 1;
+      a.src = d;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+    sender('b8e54c36780729')
+  </script>
