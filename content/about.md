@@ -125,6 +125,6 @@ Feel free to check them out in my [Recordings](../recordings) page.
 
 ## CURRICULUM VITAE
 
-{{< button "post-button-accent" "/pdf/fg-cv-en.pdf" "_self" "Download my CV in English">}}
-{{< button "post-button-accent" "/pdf/fg-cv-es.pdf" "_self" "Descarga mi CV en español">}}
-{{< button "post-button-accent" "/pdf/fg-cv-fr.pdf" "_self" "Télécharger mon CV en anglais">}}
+{{< button "post-button-accent" "/pdf/fg-cv-en.pdf" "_self" "Download CV in English">}}
+{{< button "post-button-accent" "/pdf/fg-cv-es.pdf" "_self" "Descarga el CV en español">}}
+{{< button "post-button-accent" "/pdf/fg-cv-fr.pdf" "_self" "Télécharger le CV en anglais">}}
