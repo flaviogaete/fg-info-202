@@ -1,4 +1,4 @@
-baseurl                  = "https://fg-info.netlify.app/"           # Your domain name
+baseurl                  = "https://flaviogaete.info/"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -16,17 +16,16 @@ pygmentsCodefences       = true
     footerText           = ""
 
 # Metadata for Open Graph and Twitter
-    description          = "A Musician"               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    description          = "Musician"               # Max 160 characters show in search results
+    images               = ["images/fg-info-tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Flavio Gaete"
     # rss                = ""
 
 [[params.videoBackground.sources]]
-    source  = "/sample_video.mp4"
-    type    = "video/mp4"
-    poster  = "/background.png"
+    source  = ""
+    type    = ""
+    poster  = ""
 [params.videoBackground]
-    # overlay = "rgba(0, 0, 0, 0.4)" # optional
     overlay = "rgba(0, 0, 0, 0)" # optional
 
 [[params.mainMenu]]
