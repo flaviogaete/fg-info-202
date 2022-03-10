@@ -105,7 +105,7 @@ You can also watch the following video demo reel that shows excerpts from variou
 On screen (in order of appearance): Matthew Cohn as <i>Oberon</i>; Adam Patterson as <i>Puck</i>; Flavio Gaete & Charlotte Mundy as <i>Fairies</i>; Lauren Shannon as <i>Titania</i>; Matthew Aughenbaugh, Olivia Osol, Aaron McDaniel, Craig Bacon & Heather Boaz as puppet masters; Morgan Auld as <i>Peter Quince</i> & Johnny Wall as <i>Francis Flute</i> (attendants to Titania). Musicians: Flavio Gaete, Charlotte Mundy and Nikolett Pankovits. Emilio Tirado as <i>Nick Bottom</i>. For a full list of company members please click <a href="https://newplaceplayersnyc.com/entertainment/#actors">here.</a>
 {{< /captions >}}
 
-For further information about this production (and my involvement with sound & music), please click [here.](https://flaviogaete.info/midsummer)
+For further information about this production (and my involvement with sound & music), please click [here.](https://flaviogaete.info/portfolio/projects/midsummer)
 
 ---
 
