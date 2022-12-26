@@ -19,7 +19,7 @@ myVar: "myValue"
 
 I have worked as a musician, sound designer, actor, arts administrator and teacher for the last 20 years. I've collaborated with a wide variety of ensembles in theater, film, and dance. Some of my latest collaborations have been with New Place Players, film composer Renaud Barbier for his latest film soundtrack, *Petit Pays*, filmmaker Rodrigo Monterrey, and the Orquesta de Cámara de Chile. I have taught at the Rudolf Steiner School, the Institute of Audio Research, and have been a guest lecturer at Sciences Po Paris-Reims, NY University and Dubspot in NYC. I've also played with various orchestras and ensembles, including the Orquesta de Cámara de Chile, Distinguished Concerts International NY, The Philharmonic Orchestra of the Americas, the Manhattan Camerata, Nikolett Pankovits and various others, having performed at Lincoln Center, Carnegie Hall, the Kennedy Center, and Palacio de Bellas Artes in Mexico City, among others. 
 
-I’m currently focusing on music technology, developing various software-based musical instruments. You can learn more about them and the rest of my work by visiting my [portfolio](../../portfolio)). 
+I’m currently focusing on music technology, developing various software-based musical instruments. You can learn more about them and the rest of my work by visiting my [portfolio](../../portfolio). 
 
 {{< contact >}}
 
@@ -34,7 +34,7 @@ I’m currently focusing on music technology, developing various software-based 
     {{< /text-right >}}
 
     {{< spacer >}}
-
+    
     “The content of your courses is really good and so clear!”
     {{< text-right >}}
     — DANY LE MOOR / DJ
