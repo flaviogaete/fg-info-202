@@ -1,6 +1,6 @@
 ---
-title: "Zürich"
-date: 2021-04-01T12:21:57-09:00
+title: "Piet"
+date: 2023-12-01T12:21:57-09:00
 featured_image: "/images/pietTN.jpg"
 description: "Piet is a MIDI Max for Live Device that allows one to use a MIDI controller to navigate through a Live set's clips and launch, record, or stop them individually or collectively."
 isCard: false
@@ -13,7 +13,7 @@ buttonText: "Learn More"
 
 ## PAGE UNDER CONSTRUCTION
 
-**Title**  dsfadfasdfsdfadfdsffads
+**Title**  Cillum proident consequat do ad esse sit dolor est amet in enim cillum elit enim. Eu dolore elit labore anim deserunt cillum ut sunt elit occaecat exercitation labore duis. Do nostrud ex ipsum do cupidatat in ex ipsum ex ut sunt ea consectetur. Non tempor sint incididunt officia incididunt veniam in irure et sunt ut exercitation nisi dolores.
 
 ![Piet, a Max for Live device](zurichOverview.png)
 
@@ -21,7 +21,7 @@ buttonText: "Learn More"
 
 ## SYSTEM REQUIREMENTS
 
-Zürich was built with Max 8.1.10. & recommended for Live 11.
+Max for Live Devices built with Max 8.1.10. & recommended for Live 11.
 [License Information](/license)
 
 ### Photo Credits
