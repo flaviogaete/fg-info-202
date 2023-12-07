@@ -1,8 +1,8 @@
 ---
 title: "Zürich"
 date: 2021-04-01T12:21:57-09:00
-featured_image: "/images/zurichTN2.jpg"
-description: "Zürich is a monophonic synthesizer featuring a swiss-army-knife-type oscillator bank, with the standard waveform generators, a waveshaper and a basic sample-playback engine. The standard oscillators can play up to 6 voices which can deviate in frequencies intuitively, easily creating rich, velvety textures. Also added is a noise generator (with white and pink types), and each generator comes with an independent filter (a Sallen & Key type, designed by Surreal Machines) and AR envelope. Most controls are readily available for MIDI mapping and automation."
+featured_image: "/images/pietTN.jpg"
+description: "Piet is a MIDI Max for Live Device that allows one to use a MIDI controller to navigate through a Live set's clips and launch, record, or stop them individually or collectively."
 isCard: false
 isPost: true
 buttonText: "Learn More"
@@ -15,7 +15,7 @@ buttonText: "Learn More"
 
 **Title**  dsfadfasdfsdfadfdsffads
 
-![Zürich, a Max for Live device](zurichOverview.png)
+![Piet, a Max for Live device](zurichOverview.png)
 
 ---
 
