@@ -1,6 +1,6 @@
 ---
 title: "Piet"
-date: 2023-12-12T12:21:57-09:00
+date: 2023-12-01T12:21:57-09:00
 featured_image: "/images/telarTN.png"
 description: "This is a page under construction for Piet"
 isCard: false
