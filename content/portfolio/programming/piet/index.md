@@ -15,7 +15,8 @@ buttonText: "Learn More"
 **Piet** Piet is a Max for Live Device that can help the user navigate through the session clips and control their transport individually or collectively via MIDI note or program assignments.
 
 {{< spacer >}}
-/*{{< youtube gEsP6IZ8xK4 >}}*/
+<!-- {{< youtube gEsP6IZ8xK4 >}} -->
+
 ## OVERVIEW
 
 ![Telar routing features](telarRouting.png)
