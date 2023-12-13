@@ -2,27 +2,25 @@
 title: "Piet"
 date: 2023-12-01T12:21:57-09:00
 featured_image: "/images/pietTN.jpg"
-description: "This is a page under construction for Piet"
+description: "Piet is a Max for Live Device that can help the user navigate through the session clips and control their transport individually or collectively via MIDI note or program assignments."
 isCard: false
 isPost: true
 buttonText: "Learn More"
 ---
 {{< pdf "/pdf/telarM4L-ug.pdf" >}}
-{{< pdf "/pdf/telarApp-ug.pdf" >}}
 {{< gumroad "https://flaviogaete.gumroad.com/l/telar" >}}
 
-![Piet - A M4L device to navigate through your session clips with direct MIDI assignments)
+![Piet - A M4L device to navigate through your session clips with direct MIDI assignments](/images/pietTN.jpg)
 
-**Piet** is a M4L device used  to navigate through your session clips with direct MIDI assignments.
+**Piet** Piet is a Max for Live Device that can help the user navigate through the session clips and control their transport individually or collectively via MIDI note or program assignments.
 
 {{< spacer >}}
-{{< youtube gEsP6IZ8xK4 >}}
-
-## FIRST TITLE
+/*{{< youtube gEsP6IZ8xK4 >}}*/
+## OVERVIEW
 
 ![Telar routing features](telarRouting.png)
 
-The Sensel Morph, with the Thunder Overlay, is connected to a MIDI track in Live, with an instance of Telar. Another MIDI track (or set of tracks) will hold an instance of the Telar Bus device, which is responsible for sending the corresponding MIDI out. The outgoing signal can be fed into an instrument in Live (it also works with MPE if you use inter-application MIDI communication), or an external MIDI output; Telar also comes with a suite of additional devices that allow you to convert MIDI control data or apply remote mappings so that you can control any parameter in Live.
+Quis sint id tempor exercitation non commodo sit elit. In cupidatat nisi excepteur cillum nisi aliqua sunt nulla sunt ipsum Lorem tempor nisi exercitation. Esse reprehenderit est qui elit amet minim.
 
 ---
 
