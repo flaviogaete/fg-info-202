@@ -1,7 +1,7 @@
 ---
 title: "Piet"
 date: 2023-12-01T12:21:57-09:00
-featured_image: "/images/telarTN.png"
+featured_image: "/images/pietTN.jpg"
 description: "This is a page under construction for Piet"
 isCard: false
 isPost: true
@@ -11,13 +11,9 @@ buttonText: "Learn More"
 {{< pdf "/pdf/telarApp-ug.pdf" >}}
 {{< gumroad "https://flaviogaete.gumroad.com/l/telar" >}}
 
-![Telar - A Dynamic MIDI mapper for the Sensel Morph Thunder overlay](/images/telarTN.png)
+![Piet - A M4L device to navigate through your session clips with direct MIDI assignments)
 
-**Telar** is a dynamic MIDI mapper for [Sensel Morph’s Thunder Overlay.](https://morph.sensel.com/pages/buchla-thunder-overlay)
-Thunder’s controls are split into a simple symmetric setup and an intuitive structure.
-It also features a sophisticated preset system, designed with live performance in mind. 
-Each slider can be mapped to any one note (or chord), XYZ control and MIDI channel. 
-Telar comes as a suite of Max for Live devices (a standalone app is also in the works, see video below).
+**Piet** is a M4L device used  to navigate through your session clips with direct MIDI assignments.
 
 {{< spacer >}}
 {{< youtube gEsP6IZ8xK4 >}}
