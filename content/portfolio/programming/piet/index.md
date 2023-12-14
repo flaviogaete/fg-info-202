@@ -12,12 +12,16 @@ buttonText: "Learn More"
 ![Piet - A M4L device to navigate through your session clips with direct MIDI assignments](/images/pietTN.jpg)
 
 **Piet** Piet is a Max for Live Device that can help the user navigate through the session clips and control their transport individually or collectively via MIDI note or program assignments.
-{{< spacer >}}
+<!-- {{< spacer >}} -->
 ## OVERVIEW
 
 ![Piet in the Live environment](pietLive.png)
 
 Because Piet is meant to move through your clip selection vertically across scenes and horizontally across tracks, all the navigation controls are located in a floating window.
+
+First you should load the amxd fil onto an empty MIDI track...
+
+![Piet main device](pietFloater.png)
 
 ---
 
