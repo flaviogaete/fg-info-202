@@ -7,14 +7,12 @@ isCard: false
 isPost: true
 buttonText: "Learn More"
 ---
-{{< pdf "/pdf/telarM4L-ug.pdf" >}}
 {{< gumroad "https://flaviogaete.gumroad.com/l/telar" >}}
 
 ![Piet - A M4L device to navigate through your session clips with direct MIDI assignments](/images/pietTN.jpg)
 
 **Piet** Piet is a Max for Live Device that can help the user navigate through the session clips and control their transport individually or collectively via MIDI note or program assignments.
 {{< spacer >}}
-
 ## OVERVIEW
 
 ![Piet in the Live environment](pietLive.png)
