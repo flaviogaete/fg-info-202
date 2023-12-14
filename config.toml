@@ -1,4 +1,4 @@
-baseurl                  = "https://flaviogaete.info/"           # Your domain name
+baseurl                  = "https://flaviogaete.info/"      # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -14,8 +14,8 @@ pygmentsCodefences       = true
     homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
     footerText           = ""
 
-    description          = "Musician"               # Max 160 characters show in search results
-    images               = ["images/fg-info-tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    description          = "Musician"                       # Max 160 characters show in search results
+    images               = ["images/fg-info-tn.png"]        # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Flavio Gaete"
     # rss                = ""
 
