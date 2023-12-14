@@ -19,9 +19,15 @@ buttonText: "Learn More"
 
 Because Piet is meant to move through your clip selection vertically across scenes and horizontally across tracks, all the navigation controls are located in a floating window.
 
-First you should load the amxd fil onto an empty MIDI track...
+First you should load the .amxd device onto an empty MIDI track...
 
-![Piet main device](pietFloater.png)
+![Piet main device](pietMain.png)
+
+On the main device you'll find two buttons: the Floater Button which opens a floating window, and a Help button that takes you to this website. 
+
+Let's look at the floating window which has all the controls...
+
+![Piet floating window](pietFloater.png)
 
 ---
 
