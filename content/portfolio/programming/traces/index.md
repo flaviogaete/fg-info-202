@@ -20,8 +20,6 @@ Traces offers ample ways to manipulate the envelope & rhythm of each audio fragm
 {{< spacer >}}
 {{< youtube iC1US0Tw9iA >}}
 {{< spacer >}}
-{{< youtube VDr2r-L439k >}}
-{{< spacer >}}
 
 ## OVERVIEW
 
