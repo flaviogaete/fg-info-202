@@ -15,11 +15,13 @@ buttonText: "Learn More"
 <!-- {{< spacer >}} -->
 ## OVERVIEW
 
-![Piet in the Live environment](pietLive.png)
+First you should load the .amxd device onto an empty MIDI track...
+
+![Piet Main Device](pietOverview.png)
 
 Because Piet is meant to move through your clip selection vertically across scenes and horizontally across tracks, all the navigation controls are located in a floating window.
 
-First you should load the .amxd device onto an empty MIDI track...
+![Piet in the Live environment](pietLive.png)
 
 ![Piet main device](pietMain.png)
 
