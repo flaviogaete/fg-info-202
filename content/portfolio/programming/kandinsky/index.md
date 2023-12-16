@@ -8,7 +8,7 @@ isPost: true
 buttonText: "Learn More"
 ---
 
-{{< pdf "/pdf/kandinsky-ug.pdf" >}}
+<!-- {{< pdf "/pdf/kandinsky-ug.pdf" >}} -->
 {{< gumroad "https://flaviogaete.gumroad.com/l/kandinsky" >}}
 
 ![Kandinsky - A Max For Live device](/images/kandinskyTN.png)

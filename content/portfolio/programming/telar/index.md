@@ -7,8 +7,8 @@ isCard: false
 isPost: true
 buttonText: "Learn More"
 ---
-{{< pdf "/pdf/telarM4L-ug.pdf" >}}
-{{< pdf "/pdf/telarApp-ug.pdf" >}}
+<!-- {{< pdf "/pdf/telarM4L-ug.pdf" >}} -->
+<!-- {{< pdf "/pdf/telarApp-ug.pdf" >}} -->
 {{< gumroad "https://flaviogaete.gumroad.com/l/telar" >}}
 
 ![Telar - A Dynamic MIDI mapper for the Sensel Morph Thunder overlay](/images/telarTN.png)

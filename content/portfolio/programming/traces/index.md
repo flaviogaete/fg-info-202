@@ -8,7 +8,7 @@ isPost: true
 buttonText: "Learn More"
 ---
 
-{{< pdf "/pdf/traces2-ug.pdf" >}}
+<!-- {{< pdf "/pdf/traces2-ug.pdf" >}} -->
 {{< gumroad "https://flaviogaete.gumroad.com/l/traces" >}}
 
 ![Traces - Max for Live device](/images/tracesTN.jpg)

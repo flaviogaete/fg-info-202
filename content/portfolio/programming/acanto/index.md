@@ -8,7 +8,7 @@ isPost: true
 buttonText: "Learn More"
 ---
 
-{{< pdf "/pdf/acanto-ug.pdf" >}}
+<!-- {{< pdf "/pdf/acanto-ug.pdf" >}} -->
 {{< gumroad "https://flaviogaete.gumroad.com/l/acanto" >}}
 
 ![Acanto - A Max For Live device](acantoTN2.png)

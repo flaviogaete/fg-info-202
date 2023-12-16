@@ -8,7 +8,7 @@ isPost: true
 buttonText: "Learn More"
 ---
 
-{{< pdf "/pdf/zurich-ug.pdf" >}}
+<!-- {{< pdf "/pdf/zurich-ug.pdf" >}} -->
 {{< gumroad "https://flaviogaete.gumroad.com/l/modulo" >}}
 
 ## OVERVIEW
