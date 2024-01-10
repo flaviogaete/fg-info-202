@@ -1,6 +1,6 @@
 ---
 title: "Piet"
-date: 2023-12-01T12:21:57-09:00
+date: 2024-01-02T12:21:57-09:00
 featured_image: "/images/pietTN.jpg"
 description: "Piet is a Max for Live Device that can help the user navigate through the session clips and control their transport individually or collectively via MIDI note or program assignments."
 isCard: false

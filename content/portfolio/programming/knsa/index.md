@@ -1,8 +1,8 @@
 ---
 title: "KNS 01"
-date: 2024-01-02T12:21:57-09:00
+date: 2024-01-03T12:21:57-09:00
 featured_image: "/images/knsTN.jpg"
-description: "KNS 01 is a Max for Live prototype device that explores modelling of basic analog modules, oscillators and a ladder filter"
+description: "KNS 01 is a Max for Live prototype device that explores modelling of basic analog modules, oscillators and a ladder filter."
 isCard: false
 isPost: true
 buttonText: "Learn More"
