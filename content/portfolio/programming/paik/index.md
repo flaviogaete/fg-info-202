@@ -2,7 +2,7 @@
 title: "Paik"
 date: 2024-01-01T12:21:57-09:00
 featured_image: "/images/paikTN.jpg"
-description: "Paik is an implementation of the Karma external by Rodrigo Constanzo & his team as a M4L device, with some basic button functionality that can be mapped to MIDI controls"
+description: "Paik is an implementation of the Karma external by Rodrigo Constanzo & his team as a M4L device, with some basic button functionality that can be mapped to MIDI controls."
 isCard: false
 isPost: true
 buttonText: "Learn More"
@@ -12,7 +12,7 @@ buttonText: "Learn More"
 ![Paik - A looper device based on ROdrigo COnstanzo's Karma](/images/paikTN.jpg)
 
 **Paik** 
-Paik is an implementation of the Karma external by Rodrigo Constanzo & his team as a M4L device, with some basic button functionality that can be mapped to MIDI controls"
+Paik is an implementation of the Karma external by Rodrigo Constanzo & his team as a M4L device, with some basic button functionality that can be mapped to MIDI controls."
 <!-- {{< spacer >}} -->
 ## OVERVIEW
 
